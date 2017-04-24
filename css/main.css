@@ -1,9 +1,62 @@
 @charset "UTF-8";
 /* CSS Document */
 body {
-	margin=0;
+	margin:0;
 }
-if
-.blacksection{
-	background color:black;
+.if {
+	float:left;
+	width:50%;
+	background-color:black;
+	height:570px;
+}
+.if img {
+	height:530px;
+	padding-top: 50px;
+	padding-left:20px;
+}
+.text{
+	float:right;
+	background-color:black;
+	color:white;
+	width:50%;
+	height:570px;
+}
+.text p {padding-top:300px;
+	
+}
+.main {
+	margin-left:12px;
+}
+.main h1 {
+	color:red;
+	padding-bottom: 0px;
+	font-weight:110;
+}
+.heading {
+	padding-top: 0px;
+	float: left;
+	width:73%;
+	
+}
+hr { 
+	margin-top:-26px;
+}
+.main img {
+	height:50px;
+	float: right;
+	width:25%;
+	margin-top:40px;
+	margin-left:5px;
+}
+.maintext {
+	float:left;
+	width:73%;
+}
+.main h2 {
+	text-align: right;
+	color:darkgrey;
+	font-weight: 100;
+	margin:0px;
+	font-size:1.9em;
+	padding-right: 140px;
 }
